@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609464420 source:e:\workspace\my schoolspace\bu lely - konsep pemrograman\praktikum week 14\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
